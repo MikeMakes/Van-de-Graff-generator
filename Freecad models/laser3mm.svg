@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="-324.12555"
-     inkscape:cy="3367.9839"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="897.66222"
+     inkscape:cy="3036.9569"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,11 +43,11 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1023"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5827">
     <rdf:RDF>
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1620,6 +1620,52 @@
            d="m -39,2.5 2,0"
            id="path7057"
            inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="hat"
+       transform="matrix(3.5433071,0,0,3.5433071,1311.996,-2057.5503)">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter"
+         transform="scale(1,-1)"
+         id="g116">
+        <circle
+           cx="0"
+           cy="0"
+           r="80"
+           id="circle118" />
+        <path
+           inkscape:connector-curvature="0"
+           id="2"
+           d="m 45,6 5,0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="3"
+           d="M 50,6 50,-6" />
+        <path
+           inkscape:connector-curvature="0"
+           id="4"
+           d="m 50,-6 -5,0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="5"
+           d="M 45,-6 45,6" />
+        <path
+           inkscape:connector-curvature="0"
+           id="6"
+           d="m -50,6 5,0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="7"
+           d="m -45,6 0,-12" />
+        <path
+           inkscape:connector-curvature="0"
+           id="8"
+           d="m -45,-6 -5,0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="9"
+           d="m -50,-6 0,12" />
       </g>
     </g>
   </g>
